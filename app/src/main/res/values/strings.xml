@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">joyTest</string>
+
+    <!-- Strings related to login -->
+    <string name="quick_experience">立即体验</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="main_title">首页</string>
+    <string name="article_title">悦社</string>
+    <string name="intelligent_title">智能应用</string>
+    <string name="service_title">服务</string>
+    <string name="user_title">我的</string>
+    <string name="hide_sum">隐藏金额</string>
+    <string name="show_sum">显示金额</string>
+    <string name="security_account">医保账户</string>
+    <string name="persion_account">养老账户</string>
+    <string name="unit_sum">元</string>
+    <string name="check_detail">查看详情</string>
+    <string name="check_security">查询社保</string>
+    <string name="fund_welfare">一键发现社保福利</string>
+    <string name="special_name">查悦社保深度专利</string>
+    <string name="not_login">未登录</string>
+    <string name="login_text">马上登录</string>
+    <string name="remember_user_login">记住用户</string>
+    <string name="order">我的订单</string>
+    <string name="custom">我的咨询</string>
+    <string name="collection">我的收藏</string>
+    <string name="my_security">我的社保卡</string>
+    <string name="my_fund">我的公积金</string>
+    <string name="service">官方微信客服</string>
+    <string name="service_globale">官方微信公众号</string>
+    <string name="security_custom">社保咨询</string>
+    <string name="share_friend">分享给好友</string>
+    <string name="setting">设置</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search_article">搜索政策</string>
+    <string name="subscribe">订阅</string>
+    <string name="subscribe_my_follow">我的订阅</string>
+    <string name="subscribe_my_follow_click">点击进入频道</string>
+    <string name="subscribe_my_follow_edit">编辑</string>
+    <string name="subscribe_my_follow_edit_over">完成</string>
+    <string name="subscribe_more_channel">更多分类</string>
+    <string name="subscribe_add_channel_click">点击分类添加至我的关注</string>
+</resources>

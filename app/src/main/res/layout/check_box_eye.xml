@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical">
+    <CheckBox
+        android:id="@+id/check_eye_trans"
+        android:layout_width="14dp"
+        android:layout_height="14dp"
+        android:checked="false"
+        style="@style/CheckBoxEye"/>
+    <TextView
+        android:id="@+id/check_eye_trans_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:textColor="@color/gray"
+        android:textSize="@dimen/size14"
+        android:text="许我"/>
+</LinearLayout>

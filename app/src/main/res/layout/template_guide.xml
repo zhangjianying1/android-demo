@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/guide_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/guide1"/>
+    <Button
+        android:id="@+id/experience_button"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:visibility="gone"
+        android:layout_marginBottom="30dp"
+        android:textSize="@dimen/size16"
+        android:textColor="@color/colorWhite"
+        android:text="@string/quick_experience"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:background="@drawable/button_press"/>
+</RelativeLayout>

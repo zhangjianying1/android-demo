@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- 连框颜色值 -->
+    <item android:top="0dp">
+        <shape android:gravity="top">
+            <solid android:color="#f90" />
+        </shape>
+    </item>
+    <!-- 主体背景颜色值 -->
+    <item android:top="7dp" android:bottom="7dp"> <!--设置只有底部有边框-->
+        <shape android:gravity="center">
+            <solid android:color="@color/green" />
+        </shape>
+    </item>
+    <item android:bottom="0dp" android:top="14dp"> <!--设置只有底部有边框-->
+        <shape android:gravity="bottom">
+            <solid android:color="#889988" />
+        </shape>
+    </item>
+</layer-list>

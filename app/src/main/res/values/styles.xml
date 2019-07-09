@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style
+        name="Appwelcome"
+        parent="android:Theme.Translucent.NoTitleBar.Fullscreen">
+    </style>
+    <style name="CheckBoxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:background">@drawable/check_box</item>
+        <item name="android:button">@null</item>
+    </style>
+    <style name="CheckBoxEye" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:background">@drawable/check_box_eye</item>
+        <item name="android:button">@null</item>
+    </style>
+    <style name="Animation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/translatey_show</item>
+        <item name="android:windowExitAnimation">@anim/translatey_hide</item>
+    </style>
+</resources>
